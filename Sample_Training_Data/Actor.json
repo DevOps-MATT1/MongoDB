@@ -1,0 +1,192 @@
+[
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec6e"),
+    "name": "Shah Rukh Khan",
+    "birthday": "1965-11-02",
+    "movies": [
+      "Pathaan"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec6f"),
+    "name": "Shah Rukh Khan",
+    "birthday": "1965-11-02",
+    "movies": [
+      "Jawan"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec70"),
+    "name": "Shah Rukh Khan",
+    "birthday": "1965-11-02",
+    "movies": [
+      "Kal Ho Na Ho"
+    ]
+  },
+
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec71"),
+    "name": "Aamir Khan",
+    "birthday": "1965-03-14",
+    "movies": [
+      "Dangal"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec72"),
+    "name": "Aamir Khan",
+    "birthday": "1965-03-14",
+    "movies": [
+      "PK"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec73"),
+    "name": "Aamir Khan",
+    "birthday": "1965-03-14",
+    "movies": [
+      "3 Idiots"
+    ]
+  },
+
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec74"),
+    "name": "Salman Khan",
+    "birthday": "1965-12-27",
+    "movies": [
+      "Sultan"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec75"),
+    "name": "Salman Khan",
+    "birthday": "1965-12-27",
+    "movies": [
+      "Kick"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec76"),
+    "name": "Salman Khan",
+    "birthday": "1965-12-27",
+    "movies": [
+      "Tiger Zinda Hai"
+    ]
+  },
+
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec77"),
+    "name": "Ranbir Kapoor",
+    "birthday": "1982-09-28",
+    "movies": [
+      "Animal"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec78"),
+    "name": "Ranbir Kapoor",
+    "birthday": "1982-09-28",
+    "movies": [
+      "Rockstar"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec79"),
+    "name": "Ranbir Kapoor",
+    "birthday": "1982-09-28",
+    "movies": [
+      "Barfi"
+    ]
+  },
+
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec80"),
+    "name": "Deepika Padukone",
+    "birthday": "1986-01-05",
+    "movies": [
+      "Piku"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec81"),
+    "name": "Deepika Padukone",
+    "birthday": "1986-01-05",
+    "movies": [
+      "Padmaavat"
+    ]
+  },
+  {
+    "_id": ObjectId("617296f3b9e7b8269ec6ec82"),
+    "name": "Deepika Padukone",
+    "birthday": "1986-01-05",
+    "movies": [
+      "Chennai Express"
+    ]
+  },
+
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec77"),
+    "name": "Anushka Sharma",
+    "birthday": "1988-05-01",
+    "movies": [
+      "PK"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec78"),
+    "name": "Anushka Sharma",
+    "birthday": "1988-05-01",
+    "movies": [
+      "Sultan"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec79"),
+    "name": "Anushka Sharma",
+    "birthday": "1988-05-01",
+    "movies": [
+      "Ae Dil Hai Mushkil"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec80"),
+    "name": "Anushka Sharma",
+    "birthday": "1988-05-01",
+    "movies": [
+      "NH10"
+    ]
+  },
+
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec81"),
+    "name": "Varun Dhawan",
+    "birthday": "1987-04-24",
+    "movies": [
+      "October"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec82"),
+    "name": "Varun Dhawan",
+    "birthday": "1987-04-24",
+    "movies": [
+      "Badlapur"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec83"),
+    "name": "Varun Dhawan",
+    "birthday": "1987-04-24",
+    "movies": [
+      "Judwaa 2"
+    ]
+  },
+  {
+    "_id": ObjectId("61729872b9e7b8269ec6ec84"),
+    "name": "Varun Dhawan",
+    "birthday": "1987-04-24",
+    "movies": [
+      "Bhediya"
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+{"_id":{"$oid":"69f6d00c76f991665a0f6390"},"order_id":1,"customer":"Customer_1","product":"Laptop","amount":55000,"date":"2026-01-01","region":"West"}
+{"_id":{"$oid":"69f6d00c76f991665a0f6391"},"order_id":2,"customer":"Customer_2","product":"Mobile","amount":15000,"date":"2026-01-02","region":"North"}
